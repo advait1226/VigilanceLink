@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang = "en">
+<head>
+    <meta charset="utf-8"/>
+    <title>Cop <%= userId %> </title>
+    <script>
+      const  userId = "<%= userId %>";
+    </script>
+    <link href='https://api.mapbox.com/mapbox.js/v3.3.1/mapbox.css' rel='stylesheet' />
+    <script src='https://api.mapbox.com/mapbox.js/v3.3.1/mapbox.js'></script>
+    
+    <script defer src="/socket.io/socket.io.js" defer></script>
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    <script src="cop-script.js" defer ></script>
+
+
+
+
+</head>
+<body >
+    <h1>Hello, Officer <%= userId %></h1>
+
+    <h2>YOUR INFO</h2>
+
+    <div id="copDetails"></div>
+
+
+    <h4 id="notification">Waiting for requests.....</h4>
+
+    <button onclick="helpCivilian()">
+        Help Civilian
+    </button>
+
+
+    <div id="map" style="width: 600px; height: 400px;">
+        <!-- We  will load a map here later-->
+    </div>
+
+    <!--Load JavaScripts -->
+</body>
+</html>
+
