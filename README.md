@@ -32,7 +32,7 @@ Before running VigilanceLink on your local machine, make sure you have the follo
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/VigilanceLink.git
+git clone https://github.com/advait1226/VigilanceLink.git
 ```
 2. Navigate to the project directory:
 
