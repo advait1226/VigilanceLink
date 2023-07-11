@@ -14,6 +14,7 @@ VigilanceLink is a web application designed to empower citizens by providing the
 ## Snippets
 ![image](https://github.com/advait1226/VigilanceLink/assets/106689452/f63cc1fe-a502-4a9e-b26b-4917d057708d)
 ![image](https://github.com/advait1226/VigilanceLink/assets/106689452/c4b73843-cbd3-435e-8b3d-64cd6e6a4fad)
+![image](https://github.com/advait1226/VigilanceLink/assets/106689452/0ab968b2-1cfd-4492-9626-5f667e3f9634)
 
 
 
